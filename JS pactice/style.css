@@ -1,0 +1,20 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#box{
+    height: 50%;
+    width: 15%;
+    border: 2px solid black;
+    border-radius: 200px;
+    margin-left: 30px;
+}
+
+button{
+    padding: 10px 20px;
+    margin-left: 97px;
+    margin-top: 10px;
+}
